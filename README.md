@@ -6,11 +6,13 @@
 [《开源SLAM框架学习——OpenVSLAM源码解析： 第一节 安装和初探》](https://blog.csdn.net/u011341856/article/details/107020328?spm=1001.2014.3001.5501)
 
 ============================我是分界线===================================
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/xdspacelab/openvslam/master/docs/img/logo.png" width="435px">
 </p>
 
 # OpenVSLAM: A Versatile Visual SLAM Framework
+
 [![Wercker Status](https://app.wercker.com/status/8b02a43f48216385658bb3857aae5fd8/s/master)](https://app.wercker.com/shinsumicco/openvslam/runs)
 [![Travis CI Status](https://api.travis-ci.org/xdspacelab/openvslam.svg?branch=master)](https://travis-ci.org/xdspacelab/openvslam)
 [![Documentation Status](https://readthedocs.org/projects/openvslam/badge/?version=master)](https://openvslam.readthedocs.io/)
@@ -21,9 +23,9 @@
 
 ## Overview
 
-[<img src="https://raw.githubusercontent.com/xdspacelab/openvslam/master/docs/img/teaser.png" width="640px">](https://arxiv.org/abs/1910.01122)
+[<img title="" src="docs/img/teaser.png" width="640px">](https://arxiv.org/abs/1910.01122)
 
-[<img src="https://raw.githubusercontent.com/wiki/xdspacelab/openvslam/media/tracking.gif" width="640px">](https://www.youtube.com/watch?v=Ro_s3Lbx5ms)
+[<img title="" src="docs/img/tracking.gif" width="640px">](https://www.youtube.com/watch?v=Ro_s3Lbx5ms)
 
 [**[PrePrint]**](https://arxiv.org/abs/1910.01122) [**[YouTube]**](https://www.youtube.com/watch?v=Ro_s3Lbx5ms)
 
